@@ -1,0 +1,32 @@
+{
+    "name": "@remobile/react-native-smart-keyboard",
+    "version": "1.0.0",
+    "description": "A smart keyboard for ios base on IQKeyboardManager[android not needed]",
+    "main": "index.js",
+    "author": {
+        "name": "YunJiang.Fang",
+        "email": "42550564@qq.com"
+    },
+    "license": "MIT",
+    "keywords": [
+        "react-native",
+        "react-component",
+        "ios",
+        "android",
+        "avoidView",
+        "smart",
+        "keyboard",
+        "input",
+        "TextInput",
+        "remobile",
+        "mobile"
+    ],
+    "homepage": "https://github.com/remobile/react-native-smart-keyboard",
+    "bugs": {
+        "url": "https://github.com/remobile/react-native-smart-keyboard/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/remobile/react-native-smart-keyboard.git"
+    }
+}
