@@ -121,7 +121,7 @@ const styles = StyleSheet.create({
 ```
 ### Screencasts
 
-![demo](https://github.com/remobile/react-native-smart-keyboard-label/blob/master/screencasts/demo.gif)
+![demo](https://github.com/remobile/react-native-smart-keyboard/blob/master/screencasts/demo.gif)
 
 ### Methods
 - `enable : PropTypes.function`
