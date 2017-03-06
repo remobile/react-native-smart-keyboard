@@ -4,6 +4,7 @@
 .gradle
 .idea
 *.iml
+screencasts
 npm-debug.log
 node_modules
 /android/build
