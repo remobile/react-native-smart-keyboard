@@ -3,7 +3,7 @@ A smart keyboard for ios base on IQKeyboardManager[android not needed]
 
 ## Installation
 ```sh
-npm install @remobile/react-native-smart-keyboard-label --save
+npm install @remobile/react-native-smart-keyboard --save
 ```
 
 ### Installation (iOS)
